@@ -10,6 +10,6 @@ WIKI_INVALID_PASSWORD=your_invalid_password
 
 # Valid credentials
 WIKI_VALID_USERNAME=your_valid_account
-WIKI_VALID_PASSWORD=your_invalid_password
+WIKI_VALID_PASSWORD=your_valid_password
 
 
